@@ -1,0 +1,12 @@
+com/target/chess/utils/Point.class
+com/target/chess/MainClass.class
+com/target/chess/game/Piece$1.class
+com/target/chess/game/Board$1.class
+com/target/chess/utils/Constants$MoveType.class
+com/target/chess/game/Piece.class
+com/target/chess/game/Move.class
+com/target/chess/game/Board.class
+com/target/chess/utils/Constants.class
+com/target/chess/utils/Constants$PieceType.class
+com/target/chess/utils/Constants$Color.class
+com/target/chess/exceptions/IllegalMoveException.class
